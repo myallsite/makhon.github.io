@@ -29,7 +29,7 @@ body {font-family: 'Open Sans', sans-serif;}
 }
 
 a.boxed-btn {
-    background: #FFCE44;
+    background: #D75125;
     color: #333;
     padding: 10px;
     text-transform: uppercase;
@@ -37,6 +37,7 @@ a.boxed-btn {
     opacity: 0;
     visibility: hidden;
     transition: .2s;
+    border-radius: 5px;
 }
 
 .service-box-hover h3 {
